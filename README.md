@@ -15,6 +15,7 @@ Through my military background and work with critical infrastructure, I bring **
 
 ## 🔧 Current Focus
 
+- 🤖🧠📐🧭🔁🕸️Autonomous Vertical Agentic AI Architecture
 - 🧠 Multi-cloud Security Automation (AWS, Azure, GCP)
 - 🔐 IAM Policy Design & Access Control Automation
 - 📈 Infrastructure-as-Code (Terraform, Ansible)
