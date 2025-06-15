@@ -37,14 +37,14 @@ Through my military background and work with critical infrastructure, I bring **
 
 - **CISSP**, **PMP**, **CEH**, **Associate C|CISO**, **CySA+**
 - **Certified Scrum Master**, **OCI Multi-Cloud Architect**
-- Many more on [Credly](https://www.credly.com/users/keith-haydenjr)
+- Many more on [Credly](https://www.credly.com/users/khayden)
 
 ---
 
 ## 📬 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/keithhaydenjr/)
-- [Medium Blog](https://medium.com/@keithhaydenjr) — writing about Cloud & Security Automation
+- [LinkedIn](https://www.linkedin.com/in/khaydenjr/)
+- [Medium Blog](https://medium.com/@keith.hayden) — writing about Cloud & Security Automation
 - [Email](mailto:keith.haydenjr@outlook.com)
 
 ---
