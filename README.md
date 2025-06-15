@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m a results-driven IT professional with 15+ years of hands-on experience in **cybersecurity**, **cloud infrastructure**, and **network engineering**. I specialize in automating secure cloud deployments, managing risk, and architecting resilient systems—whether on-premises or in the cloud.
+I’m a results-driven IT professional with 15+ years of hands-on experience in **cybersecurity**, **cloud infrastructure**, and **network engineering**. I specialize in automating secure cloud deployments, managing risk, architecting resilient systems—whether on-premises or in the cloud, and Vertical Agentic AI architecture.
 
 Through my military background and work with critical infrastructure, I bring **discipline, adaptability, and mission-focus** to everything I build.
 
