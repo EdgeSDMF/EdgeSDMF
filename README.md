@@ -44,7 +44,7 @@ Through my military background and work with critical infrastructure, I bring **
 ## 📬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/khaydenjr/)
-- [Medium Blog](https://medium.com/@keith.hayden) — writing about Cloud & Security Automation
+- [Medium Cloud Portfolio](https://medium.com/@keith.hayden) — writing about Cloud & Security Automation
 - [Email](mailto:keith.haydenjr@outlook.com)
 
 ---
