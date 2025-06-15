@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keith Hayden
 
-🎖️ U.S. Navy Veteran | 🛡️ CISSP, PMP Certified | ☁️ Cloud & Cybersecurity Professional  
+🎖️ U.S. Navy Veteran | 🛡️ CISSP, PMP , CSM | ☁️ Cloud & Cybersecurity Professional  
 📍 Sebring, Florida | 📬 keith.haydenjr@outlook.com
 
 ---
