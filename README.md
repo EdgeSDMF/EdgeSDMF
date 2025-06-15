@@ -34,7 +34,7 @@ Through my military background and work with critical infrastructure, I bring **
 
 ## 🏅 Certifications
 
-- **CISSP**, **PMP**, **CEH**, **AssociateC|CISO**, **CySA+**
+- **CISSP**, **PMP**, **CEH**, **Associate C|CISO**, **CySA+**
 - **Certified Scrum Master**, **OCI Multi-Cloud Architect**
 - Many more on [Credly](https://www.credly.com/users/keith-haydenjr)
 
