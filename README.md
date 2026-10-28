@@ -23,13 +23,11 @@ Through my military background and work with critical infrastructure, I bring **
 
 ---
 
-## 🛠️ Featured Projects
+### 🚀 Featured Projects
 
 * **[Heterogeneous Private Inference Cluster](https://github.com)**: A bare-metal, zero-cloud multi-vendor GPU orchestration rig deployed on Debian Linux. Optimized with custom Rust kernel bindings to execute localized LLM private inference using asymmetric memory heap mappings to completely bypass host-side CPU synchronization overhead. *(Currently featured & reviewed live by NVIDIA Technical Marketing Engineering, October 2026).*
-
-
-### ☁️ [Cloud Network & Security Auditor](https://github.com/keithhaydenjr/cloud_netsec_multi_audit)
-> Multi-cloud script for auditing AWS, Azure, and GCP infrastructure. Flags public access, insecure configurations, and sends audit reports.
+  
+* **[Cloud Network & Security Auditor](https://github.com)**: Python script for auditing AWS, Azure, and GCP infrastructures. Flags public access, insecure configurations, and sends audit reports.
 
 ---
 
