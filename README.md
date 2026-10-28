@@ -25,8 +25,8 @@ Through my military background and work with critical infrastructure, I bring **
 
 ## 🛠️ Featured Projects
 
-### 🔎 [LinkedIn Job Auto Apply Bot (Python + Selenium)](https://github.com/keithhaydenjr/linkedin_auto_apply)
-> Automates applications to Easy Apply jobs filtered by remote location (US/Florida). Perfect for job seekers targeting IT roles.
+* **[Heterogeneous Private Inference Cluster](https://github.com)**: A bare-metal, zero-cloud multi-vendor GPU orchestration rig deployed on Debian Linux. Optimized with custom Rust kernel bindings to execute localized LLM private inference using asymmetric memory heap mappings to completely bypass host-side CPU synchronization overhead. *(Currently featured & reviewed live by NVIDIA Technical Marketing Engineering, October 2026).*
+
 
 ### ☁️ [Cloud Network & Security Auditor](https://github.com/keithhaydenjr/cloud_netsec_multi_audit)
 > Multi-cloud script for auditing AWS, Azure, and GCP infrastructure. Flags public access, insecure configurations, and sends audit reports.
@@ -35,9 +35,9 @@ Through my military background and work with critical infrastructure, I bring **
 
 ## 🏅 Certifications
 
-- **CISSP**, **PMP**, **CEH**, **Associate C|CISO**, **CySA+**
+- **CISSP**, **PMP**, **CEH**, ** C|AIPM**, **Associate C|CISO**, **CySA+**
 - **Certified Scrum Master**, **OCI Multi-Cloud Architect**
-- Many more on [Credly](https://www.credly.com/users/khayden)
+- *** GCP Cloud Security Professional ****
 
 ---
 
