@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Keith Hayden
 
 🎖️ U.S. Navy Veteran | 🛡️ CISSP, PMP , C|AIPM | ☁️ Cloud & Cybersecurity Professional  
-📍 Sebring, Florida | 📬 keith.haydenjr@outlook.com
+📍 Sebring, Florida | 📬 keith@edgelinetechnologies.com
 
 ---
 
