@@ -33,7 +33,7 @@ Through my military background and work with critical infrastructure, I bring **
 
 ## 🏅 Certifications
 
-- **CISSP**, **PMP**, **CEH**, ** C|AIPM**, **Associate C|CISO**, **CySA+**
+- **CISSP**, **PMP**, **CEH**, ** C|AIPM**, **Associate C|CISO**, **CySA+**, **SecurityX (Formerly CASP+)**
 - **Certified Scrum Master**, **OCI Multi-Cloud Architect**
 - *** GCP Cloud Security Professional ****
 
